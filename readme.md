@@ -11,7 +11,7 @@ The dataset used in this project is sourced from Transport for London (TfL) and 
 
 Here is a preview of one of the visualizations from the project:
 
-![LondonBikesAnalysis](images/preview.png)
+![LondonBikesAnalysis](preview.png)
 
 ## Files in the Repository
 - **`preview.twb`**: Tableau Workbook containing the data visualizations for the project.
