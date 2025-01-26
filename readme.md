@@ -13,10 +13,5 @@ Here is a preview of one of the visualizations from the project:
 
 ![LondonBikesAnalysis](preview.png)
 
-## Files in the Repository
-- **`preview.twb`**: Tableau Workbook containing the data visualizations for the project.
-- **`README.md`**: This documentation file explaining the project and its features.
-- **Other Files**: Include any additional datasets or scripts used in the project.
-
 ## Usage
 The project involves preprocessing and manipulating the raw data to ensure it is clean and structured for visualization. Once prepared, the Tableau dashboard provides an accessible way to explore the insights. Users can navigate through the interactive dashboard, filter data, and adjust parameters to uncover specific patterns or focus on particular aspects of the analysis. The visualizations are designed to help identify trends and correlations in bike-sharing usage, offering both high-level overviews and detailed insights.
